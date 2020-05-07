@@ -1,1 +1,1 @@
-// Code ClickityClick Component Here
+console.log('this')
